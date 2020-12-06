@@ -1,0 +1,9 @@
+{
+    "name": "pkframe/framep",
+    "description": "pkframe is a php version detector in php files.",
+    "type": "library",
+    "require": {
+        "json-mapper/json-mapper": "^1.4"
+    },
+    "license": "BSD"
+}
