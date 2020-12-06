@@ -5,5 +5,5 @@
     "require": {
         "json-mapper/json-mapper": "^1.4"
     },
-    "license": "BSD"
+    "license": "MIT"
 }
